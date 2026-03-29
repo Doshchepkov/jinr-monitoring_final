@@ -98,7 +98,7 @@ Docker и CI/CD
 
 ### 1. Клонирование репозитория
 
-git clone https://github.com/your-username/jinr-monitoring_final.git
+git clone https://github.com/Doshchepkov/jinr-monitoring_final.git
 
 cd jinr-monitoring_final
 
